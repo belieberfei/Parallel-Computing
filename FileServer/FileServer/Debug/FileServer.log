@@ -1,0 +1,3 @@
+﻿  Server.cpp
+c:\users\周逸飞\desktop\林老师作业包\林卫国\201920085211029-周逸飞-prj08-20191118\201920085211029-周逸飞-prj08-20191118\fileserver\fileserver\server.cpp(22): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  FileServer.vcxproj -> C:\Users\周逸飞\Desktop\林老师作业包\林卫国\201920085211029-周逸飞-PRJ08-20191118\201920085211029-周逸飞-PRJ08-20191118\FileServer\Debug\FileServer.exe
